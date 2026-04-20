@@ -105,11 +105,6 @@
         gap: 1rem;
     }
 
-    .car-card.selected {
-        border-color: blue;
-        box-shadow: 0 22px 46px rgba(0, 64, 191, 0.12);
-    }
-
     .car-card > img {
         width: 100%;
         height: auto;
@@ -327,7 +322,7 @@
             width: 100%;
         }
 
-        .car-card {
+        . {
             min-width: auto;
         }
 
